@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, NodeJS, ReactJS and React Native. 
+I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I enjoy solving problems and developing solutions through technology, and I believe that each challenge is a stepping stone to go further.
 
 - 🔭 I’m currently working on only personal projects.
 - 🌱 I have experience with Java Script, Node.js and Flutter. 
