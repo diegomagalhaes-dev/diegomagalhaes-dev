@@ -4,7 +4,7 @@ I'm a Full Stack Developer Passionate about the best web and mobile development 
 
 - 🔭 I’m currently working on only personal projects.
 - 🌱 I have experience with Java Script, Node.js and Flutter. 
-- 💡 I'm open to new challenges, talk to me!
+- 💡 I'm open to new challenges, <a href="https://www.linkedin.com/in/magalhaesdiego/" target="_blank">talk to me!</a>
 - I share knowledge on Medium: [Diêgo Magalhães](https://medium.com/@diegomagalhaes-dev)
 
 <div align="center" >
