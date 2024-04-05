@@ -5,7 +5,7 @@ I'm a Full Stack Developer Passionate about the best web and mobile development 
 - 🔭 I’m currently working on only personal projects.
 - 🌱 I have experience with React.js, React Native, Node.js and Typescript/Javascript.
 - 💡 Let's share thoughts on this matter? <a href="https://www.linkedin.com/in/magalhaesdiego/" target="_blank">Talk to me!</a>
-- I share knowledge on Medium: [Diêgo Magalhães](https://medium.com/@diegomagalhaes-dev)
+- I share knowledge on my personal blog: [Diêgo Magalhães](https://diegom7s.com/)
 
 <div align="center" style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 100%;">
     
