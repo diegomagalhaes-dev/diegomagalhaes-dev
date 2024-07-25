@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer Passionate about the best web and mobile development technologies. I enjoy solving problems and developing solutions through technology, and I believe that each challenge is a stepping stone to go further.
 
-- 🔭 I’m currently working on only personal projects.
+- 🌟 More than 3 years of experience in software development.
 - 🌱 I have experience with React.js, React Native, Node.js and Typescript/Javascript.
 - 💡 Let's share thoughts on this matter? <a href="https://www.linkedin.com/in/magalhaesdiego/" target="_blank">Talk to me!</a>
 - I share knowledge on my personal blog: [Diêgo Magalhães](https://diegom7s.com/)
